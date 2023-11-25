@@ -1,4 +1,7 @@
+
+
 import java.util.Arrays;  
+package GowLink;
 
 class Node{
 	int data;
@@ -13,22 +16,6 @@ class Node{
 
 
 class Arraylinkedlist {
-	
-	
-	
-	static int linklistlength(Node node){
-		
-		if (node == null){return 0;}
-		
-		return 1+linklistlength(node.next);
-		
-		}
-	
-	
-	
-	
-	
-	
 	
 	static void print(Node head){
 		Node current=head;
@@ -63,10 +50,9 @@ class Arraylinkedlist {
 	
 public static void main(String[] args) {
 		
-		int  arr[]={1,2,4,3,4,5,5,5,5,5};
+		int  arr[]={1,2,4};
 		
-		Node x=arrlinklist(arr);
-		System.out.println(linklistlength(x));
+		System.out.println(Arrays.toString(arr));
 	
 	}
 }
