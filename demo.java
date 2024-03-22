@@ -2,7 +2,8 @@
 
 public class demo {
     public static void main(String[] args){
-    System.out.println("vallepuu"); 
+    Float x=10;
+    System.out.println("comd variable");
 
     }
 }
