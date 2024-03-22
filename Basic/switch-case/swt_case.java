@@ -8,7 +8,7 @@ public class swt_case {
         char character =inp.next().charAt(0);
 
         System.out.println(character);
-
+  //to chk whheter
         switch (character) {
             case 'A':
                 System.out.println("entered A");                
@@ -22,7 +22,7 @@ public class swt_case {
             case 'D':
                 System.out.println("entered d");                
                 break;
-        
+      
             default:
             System.out.println("Entered other than A B C");
                 break;
