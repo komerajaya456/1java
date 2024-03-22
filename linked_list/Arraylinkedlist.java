@@ -1,7 +1,4 @@
-
-
 import java.util.Arrays;  
-package GowLink;
 
 class Node{
 	int data;
