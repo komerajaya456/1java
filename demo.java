@@ -9,14 +9,16 @@ public class demo {
 
     Float y=8f;
     System.out.println("comd variable");
-    Float x=10;
-    System.out.println("comd variable");
-    Float x=10;
-    System.out.println("comd variable");
-    Float x=10;
-    System.out.println("comd variable");
-    Float x=10;
-    System.out.println("comd variable");
 
+    Float x=10;
+
+    Float x=10;
+    Float x=10;
+    Float x=10;
+    Float x=10;
+    Float x=10;
+    Float x=10;
+    Float x=10;
+    
     }
 }
