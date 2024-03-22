@@ -9,6 +9,6 @@ public class demo {
 
     Float y=8f;
     System.out.println("comd variable");
-
+    
     }
 }
