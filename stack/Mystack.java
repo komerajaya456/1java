@@ -1,5 +1,5 @@
 public class Mystack{
-  
+  //hello
   public static class Node{
     int data;
     Node next;
