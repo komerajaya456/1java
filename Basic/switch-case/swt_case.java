@@ -19,7 +19,7 @@ public class swt_case {
             case 'C':
                 System.out.println("entered c");                
                 break;
-        //this is the comment to check whether working properly or not
+
             default:
             System.out.println("Entered other than A B C D");
                 break;
