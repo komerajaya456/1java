@@ -19,13 +19,18 @@ public class swt_case {
             case 'C':
                 System.out.println("entered c");                
                 break;
+            
+                case 'E':
+                System.out.println("entered E");                
+                break;
+
 
             case 'D':
                 System.out.println("entered d");                
                 break;
       
             default:
-            System.out.println("Entered other than A B C D");
+            System.out.println("Entered other than A B C E");
                 break;
         }
         
